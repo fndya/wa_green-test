@@ -34,8 +34,8 @@ Make sure you have installed:
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/fndya/wa_green-test.git
+cd /wa_green-test
 ```
 
 Install dependencies:
